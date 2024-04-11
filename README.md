@@ -46,6 +46,10 @@ The app includes the following components:
 
 The app uses CSS for styling. The CSS files are located in the `src` directory and are imported into the corresponding component files.
 
+## Screenshot
+
+![image](https://github.com/emadnahed/ReactFacts/assets/81587039/e096164c-fb30-4354-902c-2cd554973608)
+
 ## Deployment
 
 To deploy the app, you can use a service like Netlify or Vercel. Simply push your code to a GitHub repository and follow the instructions for deploying a React app on the platform of your choice.
